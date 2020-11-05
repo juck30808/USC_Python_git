@@ -1,5 +1,6 @@
 {
-  "parkingLots" : [ {
+  "parkingLots" : [
+    {
     "areaId" : "1",
     "areaName" : "桃園區",
     "parkName" : "桃園縣公有府前地下停車場",
